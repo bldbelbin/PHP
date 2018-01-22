@@ -1,0 +1,5 @@
+English||COMP-1004||4
+Web Development||COMP-6002||5
+Object-Oriented Java||COMP-1006||3
+Networking Essentials||COMP-1035||4
+Dynamic Websites AMP||COMP-3006||2
